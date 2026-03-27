@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes textGradient {
+    0% {
+        background-position: 0%
+    }
+
+    100% {
+        background-position: 200%
+    }
+}
+
+.group-hover\:animate-text:hover {
+    background-size: 200% auto;
+    animation: textGradient 3s linear infinite;
+}
