@@ -27,7 +27,7 @@ const projects = [
         description: "My personal portfolio built with React & Tailwind.",
         tech: "React, Tailwind",
         
-        demo: "portfolio-if577p1je-shh449s-projects.vercel.app",
+        demo: "https://portfolio-if577p1je-shh449s-projects.vercel.app",
         github: "#",
     },
 ];
